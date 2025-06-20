@@ -1,7 +1,9 @@
 # Dashboard com Python
 
 ✅ Funcionalidades
+
 Apresentar gráficos claros e intuitivos que destacam as vendas de cada mês.
+
 
 📚 Bibliotecas utilizadas 
 
@@ -11,6 +13,8 @@ Apresentar gráficos claros e intuitivos que destacam as vendas de cada mês.
 -> pip install pandas (manipulação e análise de dados em tabela)
 
 -> pip install openpyxl (para leitura de arquivos .xlsx)
+
+
 
 🌐 Sites para facilitação
 https://dash.plotly.com/installation
