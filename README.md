@@ -1,11 +1,13 @@
 # Dashboard com Python
 
-✅ Funcionalidades
+✅ Funcionalidades:
 
 Apresentar gráficos claros e intuitivos que destacam as vendas de cada mês.
 
 
-📚 Bibliotecas utilizadas 
+
+
+📚 Bibliotecas utilizadas: 
 
 
 -> pip install dash (framework para criações web interativas)
@@ -16,6 +18,7 @@ Apresentar gráficos claros e intuitivos que destacam as vendas de cada mês.
 
 
 
-🌐 Sites para facilitação
+
+🌐 Sites para facilitação:
 https://dash.plotly.com/installation
 - Para incluir funcionalidades entre outros.
