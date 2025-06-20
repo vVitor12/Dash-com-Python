@@ -5,6 +5,7 @@ Apresentar gráficos claros e intuitivos que destacam as vendas de cada mês.
 
 📚 Bibliotecas utilizadas 
 
+
 -> pip install dash (framework para criações web interativas)
 
 -> pip install pandas (manipulação e análise de dados em tabela)
